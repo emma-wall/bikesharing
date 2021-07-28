@@ -2,6 +2,7 @@
 
 ## Overview
 This repo analyzes Citibike data from August 2019 and identifies trends to start bike sharing companies in other cities using Tableu. 
+[link to dashboard] (https://public.tableau.com/app/profile/emma2683/viz/Citibike_Analysis_16273586947070/CitibikeAnalysis?publish=yes)
 
 ## Results
 ### Checkout Times
