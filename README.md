@@ -37,3 +37,10 @@ This repo analyzes Citibike data from August 2019 and identifies trends to start
   If we were to zoom into the maps, we would see that many of the top starting locations are near major train stations and ferry ports within the city. 
 
 ## Summary 
+  From the images we can see the following 
+* Citibike is used more widely by men than women
+* Citibikes are mostly used for short 10 min rides 
+* A majority citibike users are commuters who use the bikes during rush hour. 
+* Subscribers make up most of the business 
+* The best locations for citibikes are near large train/ bus stops and ferry ports
+
