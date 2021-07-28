@@ -34,6 +34,6 @@ This repo analyzes Citibike data from August 2019 and identifies trends to start
   The maps highlight the stop starting and stopping locations for bikes. The markers show the locations that had 10,000+ rides originating and ending there. 
   ![Screen Shot 2021-07-27 at 12 44 37 PM](https://user-images.githubusercontent.com/80648379/127258698-b64cd5f3-064d-4353-af17-c953e51a2a97.png)
 
-  If we were to zoom into the maps, we would see that many of the top starting locations are near major train stations and ferry port within the city. 
+  If we were to zoom into the maps, we would see that many of the top starting locations are near major train stations and ferry ports within the city. 
 
 ## Summary 
