@@ -31,7 +31,9 @@ This repo analyzes Citibike data from August 2019 and identifies trends to start
   It is clear from the above heat map, that subscribers make up most of the rides. For subscribers, with the exception of Wednesdays, it seems that there are more rides are taken during the week, opposed to the weekend. For regular customers, although difficult to see with the plain eye, more trips are taken on the weekends, rather than during the week. 
 
 ### Top Locations
-The maps highlight the stop starting and stopping locations for bikes. The markers show the locations that had 10,000+ rides originating and ending there. 
-![Screen Shot 2021-07-27 at 12 44 37 PM](https://user-images.githubusercontent.com/80648379/127258698-b64cd5f3-064d-4353-af17-c953e51a2a97.png)
+  The maps highlight the stop starting and stopping locations for bikes. The markers show the locations that had 10,000+ rides originating and ending there. 
+  ![Screen Shot 2021-07-27 at 12 44 37 PM](https://user-images.githubusercontent.com/80648379/127258698-b64cd5f3-064d-4353-af17-c953e51a2a97.png)
+
+  If we were to zoom into the maps, we would see that many of the top starting locations are near major train stations and ferry port within the city. 
 
 ## Summary 
