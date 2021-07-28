@@ -11,6 +11,7 @@ This repo analyzes Citibike data from August 2019 and identifies trends to start
   The first graph shows the duration of checkout times for the bikes. The number of rides peaks at 0 hours and about 10 minutes, which suggests that most users are not going very far with the bikes. Most trips do not last more than an hour. The second graph breaks out the trip durations by gender. As we can see, males checkout the most bikes. 
 
 ### Trips by Weekday per Hour
+  The following heat maps show the number of rides by Weekday per Hour. 
   ![Screen Shot 2021-07-27 at 12 51 39 PM](https://user-images.githubusercontent.com/80648379/127248667-316d0764-ec5d-4916-88d4-15f26e7baa50.png)
 
   During the week, the most popular times of day to rent a bike are during rush hour, 7-9am and 5-7pm. On the weekends, the most popular time of day to rent a bike is midday. 
